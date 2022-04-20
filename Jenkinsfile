@@ -21,8 +21,8 @@ pipeline {
            sh 'echo "deploying application..."'
          }
 
-     }
-  
-   	}
+      }
 
-   }
+   }    
+  
+}
